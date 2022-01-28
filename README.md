@@ -15,7 +15,7 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/chandhru080820/Console_Application/blob/main/AtmApplication.java">ATM Application</a><b></td>
+    <td><b><a href="https://github.com/AkhilaBalu/Console_Application/blob/main/ATM%20Application.java">ATM Application</a><b></td>
     <td>Console based ATM Application Built using java</td>
   </tr>
 </table>
